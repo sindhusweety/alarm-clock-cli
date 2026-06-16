@@ -1,0 +1,38 @@
+[
+  {
+    "time": "16:50",
+    "label": "Office time",
+    "enabled": true,
+    "created_at": "2026-06-16 16:48:09"
+  },
+  {
+    "time": "16:51",
+    "label": "Office time",
+    "enabled": true,
+    "created_at": "2026-06-16 16:55:43"
+  },
+  {
+    "time": "16:55",
+    "label": "Office time",
+    "enabled": false,
+    "created_at": "2026-06-16 16:48:25"
+  },
+  {
+    "time": "17:04",
+    "label": "Office time",
+    "enabled": true,
+    "created_at": "2026-06-16 16:59:01"
+  },
+  {
+    "time": "17:02",
+    "label": "Office time",
+    "enabled": true,
+    "created_at": "2026-06-16 16:56:14"
+  },
+  {
+    "time": "17:03",
+    "label": "Office time",
+    "enabled": true,
+    "created_at": "2026-06-16 16:48:19"
+  }
+]

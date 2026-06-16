@@ -46,7 +46,7 @@ Output:
 ────────────────────────────────────────────────────
 1    07:30    Alarm                          ✅ on
 2    09:00    Stand-up meeting               ✅ on
-3    13:30    Lunch                          ✅ on
+3    13:30    Lunch                          * off
 ```
 
 ### Cancel an alarm

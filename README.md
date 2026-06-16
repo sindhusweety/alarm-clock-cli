@@ -5,12 +5,14 @@ A simple, no-dependency command-line alarm clock written in Python.
 ## Features
 
 - Set alarms with an optional label
-- List all scheduled alarms
-- Cancel alarms by time
+- List all scheduled alarms in sorted order
+- Cancel alarms by time by disabling 
+- Delete alarm or alarms
 - Live daemon mode that watches and triggers alarms
 - Terminal bell notification when alarm fires
 - Duplicate alarm prevention
 - Alarms persist between sessions (stored in `alarms.json`)
+- Snooze alarm for every 5 mins
 
 ## Requirements
 
@@ -21,7 +23,7 @@ A simple, no-dependency command-line alarm clock written in Python.
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/alarm-clock.git
-cd alarm-clock
+cd alarm-clock-cli
 ```
 
 ## Usage
@@ -92,4 +94,6 @@ alarm-clock/
 ├── alarm.py       # All logic: CLI parsing, storage, daemon, trigger
 ├── alarms.json    # Auto-created when first alarm is set
 └── README.md
+└── requirements.txt
+
 ```
